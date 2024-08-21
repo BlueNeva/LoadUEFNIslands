@@ -13,5 +13,7 @@
 
 8. Optionally, PIE should work by default if it has been previously installed, however, if it does not working pressing the tickmark next to "Use In PIE" may resolve your issues
 
+
+Credits: Fortnite Modding Community for Providing Pre-Patched Exes # discord.gg/PQWn9JP5zV
 # Secondary Disclaimer
 This may be patched at a future date (Although unlikely) and is not going to be regularly maintained, this also only works on the matching versions of fortnite that the islands were downloaded from, they cannot be upgraded or downgraded, modified in any manner.
